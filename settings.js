@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['919832214237'] //ur owner number
+global.vcardowner = ['918107768770'] //ur owner number
 global.ownername = "👨🏻‍💻CHIRAG YOUTUBER 👨🏻‍💻" //ur owner name
 global.ytname = "CHIRAG YOUTUBER" //ur yt chanel name
 global.socialm = "github.com/LOSTHACKEROFC" //ur github or insta name
@@ -69,8 +69,8 @@ global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website to be disp
 global.botscript = 'https://github.com/LOSTHACKEROFC' //script link
 global.reactmoji = "🤖" //ur menu react emoji
 global.themeemoji = "☃️" //ur theme emoji
-global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍😈 " //ur sticker watermark packname
-global.author = "CHIRAG YOUTUBER 🥵" //ur sticker watermark author
+global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝙏𝙀𝘼𝙈 𝙍𝙄𝘿𝙀𝙍𝙎😈 " //ur sticker watermark packname
+global.author = "TEAM RIDERS 🥵" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
