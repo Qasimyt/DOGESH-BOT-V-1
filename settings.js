@@ -55,15 +55,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['918107768770'] //ur owner number
-global.ownername = "👨🏻‍💻CHIRAG YOUTUBER 👨🏻‍💻" //ur owner name
+global.ownername = "👨🏻‍💻Mr Unknown Rider 👨🏻‍💻" //ur owner name
 global.ytname = "CHIRAG YOUTUBER" //ur yt chanel name
 global.socialm = "github.com/teamriders" //ur github or insta name
 global.location = "India, DREAMRS , RIDERSWORLD" //ur location
 
 //bot bomdy 
-global.owner = ['919832214237']
+global.owner = ['918107768770']
 global.ownertag = '919832214237' //ur tag number
-global.botname = '🤡𝘾𝙃𝙄𝙍𝘼𝙂 𝙔𝙊𝙐𝙏𝙐𝘽𝙀𝙍🤡' //ur bot name
+global.botname = '🤡𝘿𝙊𝙂𝙀𝙎𝙃 𝘽𝙊𝙏🤡' //ur bot name
 global.linkz = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website to be displayed
 global.botscript = 'https://github.com/LOSTHACKEROFC' //script link
