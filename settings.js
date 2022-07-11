@@ -57,7 +57,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['918107768770'] //ur owner number
 global.ownername = "👨🏻‍💻CHIRAG YOUTUBER 👨🏻‍💻" //ur owner name
 global.ytname = "CHIRAG YOUTUBER" //ur yt chanel name
-global.socialm = "github.com/LOSTHACKEROFC" //ur github or insta name
+global.socialm = "github.com/teamriders" //ur github or insta name
 global.location = "India, DREAMRS , RIDERSWORLD" //ur location
 
 //bot bomdy 
