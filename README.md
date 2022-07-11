@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.com/teamriders" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.com/teamriders" target="_blank">TEAMRIDERS</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
