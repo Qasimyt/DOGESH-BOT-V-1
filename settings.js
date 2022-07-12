@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['918107768770'] //ur owner number
-global.ownername = "👨🏻‍💻Mr Unknown Rider 👨🏻‍💻" //ur owner name
+global.ownername = "🖤Mr Unknown Rider ⚡" //ur owner name
 global.ytname = "TEAM RIDERS" //ur yt chanel name
 global.socialm = "github.com/teamriders" //ur github or insta name
 global.location = "India, DREAMRS , RIDERSWORLD" //ur location
@@ -63,14 +63,14 @@ global.location = "India, DREAMRS , RIDERSWORLD" //ur location
 //bot bomdy 
 global.owner = ['918107768770']
 global.ownertag = '919832214237' //ur tag number
-global.botname = '🤡𝘿𝙊𝙂𝙀𝙎𝙃 𝘽𝙊𝙏🤡' //ur bot name
+global.botname = '⚡𝘿𝙊𝙂𝙀𝙎𝙃 𝘽𝙊𝙏⚡' //ur bot name
 global.linkz = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/c/chiragyoutuber" //ur website to be displayed
 global.botscript = 'https://github.com/LOSTHACKEROFC' //script link
-global.reactmoji = "🤖" //ur menu react emoji
-global.themeemoji = "☃️" //ur theme emoji
+global.reactmoji = "😇" //ur menu react emoji
+global.themeemoji = "⚡" //ur theme emoji
 global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝙏𝙀𝘼𝙈 𝙍𝙄𝘿𝙀𝙍𝙎😈 " //ur sticker watermark packname
-global.author = "TEAM RIDERS 🥵" //ur sticker watermark author
+global.author = "TEAM RIDERS ⚡💟" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
