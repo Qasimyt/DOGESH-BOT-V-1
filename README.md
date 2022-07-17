@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶDOGESH 𝗕OT-𝗩1ꫂ<br></h1>
 <p align="center">
-<img src="video.gif" alt="animated" width="540" height="280" />
+<img src="telenor.gif" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
