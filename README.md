@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶDOGESH 𝗕OT-𝗩1ꫂ<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
+<img src="./video.gif" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -123,3 +123,8 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+
+
+
+
+https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif
