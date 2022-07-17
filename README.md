@@ -1,5 +1,3 @@
-
-
 <h1 align="center">ꪶDOGESH 𝗕OT-𝗩1ꫂ<br></h1>
 <p align="center">
 <img src="tenor.gif" alt="animated" width="540" height="280" />
@@ -17,14 +15,14 @@ Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.co
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD4?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD4?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/teamriders/followers"><img title="Followers" src="https://img.shields.io/github/followers/teamriders?color=red&style=flat-square"></a>
+<a href="https://github.com/teamriders/DOGESH-BOT-V-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/teamriders/DOGESH-BOT-V-1?color=blue&style=flat-square"></a>
+<a href="https://github.com/teamriders/DOGESH-BOT-V-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/teamriders/DOGESH-BOT-V-1?color=red&style=flat-square"></a>
+<a href="https://github.com/teamriders/DOGESH-BOT-V-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/teamriders/DOGESH-BOT-V-1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/teamriders/DOGESH-BOT-V-1"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/teamriders/DOGESH-BOT-V-1/"><img title="Size" src="https://img.shields.io/github/repo-size/teamriders/DOGESH-BOT-V-1?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteamriders%2FDOGESH-BOT-V-1&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/teamriders/DOGESH-BOT-V-1/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -41,7 +39,7 @@ Dogesh Bot MD is a Funny meme whatsapp bot created by <a href="https://github.co
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`FamPay`](https://telegra.ph/file/b7fae08bdc5b0a20fbfba.gif)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
@@ -50,23 +48,22 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 ## ```Bot Support Groups```
 
 - [`1st GC`](https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr)
-- [`2nd GC`](https://https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
+- [`2nd GC`](https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr)
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD4/fork)
+- FORK THE REPOSITORY [Here](https://github.com/teamriders/DOGESH-BOT-V-1/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@teamriders/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L58)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L65)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L66)
+- CHANGE OWNER NAME [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L59)
+- CHANGE BOT NAME [Here](https://github.com/teamriders/DOGESH-BOT-V-1/blob/master/settings.js#L67)
 
 ## ` BUILDPACKS`
 
@@ -75,7 +72,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamriders/DOGESH-BOT-V-1/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -86,10 +83,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD4.git
-cd CheemsBot-MD4
+git clone https://github.com/teamriders/DOGESH-BOT-V-1.git
+cd DOGESH-BOT-V-1
 
-npm start
+yarn start
 ```
 ## `For Termux/Ssh/Ubuntu`
 ```bash
@@ -103,9 +100,9 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD
-npm start
+git clone https://github.com/teamriders/DOGESH-BOT-V-1
+cd DOGESH-BOT-V-1
+yarn start
 ```
 ## `For VPS`
 ```bash
@@ -113,18 +110,13 @@ apt install nodejs
 apt install git 
 apt apt install ffmpeg 
 apt apt install libwebp 
-apt apt install imagrmagick
+apt apt install imagemagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD4
-npm start
+git clone https://github.com/teamriders/DOGESH-BOT-V-1
+cd DOGESH-BOT-V-1
+yarn start
 ```
 ## `For 24/7 Activation (Termux)`
 ```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+yarn i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
-
-
-
-
-https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif
