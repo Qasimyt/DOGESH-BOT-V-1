@@ -66,10 +66,10 @@ global.ownertag = '919832214237' //ur tag number
 global.botname = '⚡𝘿𝙊𝙂𝙀𝙎𝙃 𝘽𝙊𝙏⚡' //ur bot name
 global.linkz = "https://chat.whatsapp.com/L7r7Emf3q3FGEAmlBXbpzr" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/x.goransh_x?igshid=YmMyMTA2M2Y=" //ur website to be displayed
-global.botscript = 'https://github.com/LOSTHACKEROFC' //script link
+global.botscript = 'https://github.com/RIDERGORANSH' //script link
 global.reactmoji = "😇" //ur menu react emoji
 global.themeemoji = "⚡" //ur theme emoji
-global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝙏𝙀𝘼𝙈 𝙍𝙄𝘿𝙀𝙍𝙎😈 " //ur sticker watermark packname
+global.packname = "SUBSCRIBE\n\n\n\n\n\n\n\n\n\n\n𝙏𝙀𝘼𝙈 𝙍𝙄𝘿𝙀𝙍𝙎😊 " //ur sticker watermark packname
 global.author = "TEAM RIDERS ⚡💟" //ur sticker watermark author
 
 //Bot theme media
