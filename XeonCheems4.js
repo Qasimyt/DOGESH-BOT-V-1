@@ -1094,9 +1094,9 @@ const reactionMessage = {
                 const timestampe = speed();
 const latensie = speed() - timestampe
                 const menulist = `┌─❖
-│「 Hi Cutie👋 」
+│「 Hi Cutie🌝 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  HI CUTIE I AM DOGESH BOT READY FOR YOUR HELP  I AM MADE BY THE HEART OF UNKNOWN RIDER AND? 😄
+┌┤✑  HI CUTIE I AM DOGESH BOT READY FOR YOUR HELP  I AM MADE BY THE HEART OF GORANSH AND ALOK? 😇✨
 │└────────────┈ ⳹
 │
 └─「 𝘽𝙊𝙏 𝙄𝙉𝙁𝙊 」       
@@ -1112,7 +1112,7 @@ const latensie = speed() - timestampe
 │𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 𝗧𝗼𝗱𝗮𝘆 : ${jumlahharian}
 └┬────────────┈ ⳹
    │✑  Please Select
-   │✑  The Button Below
+   │✑  The Button Below Lamde
    └─────────────┈ ⳹`
    
    //randoming function
@@ -3224,27 +3224,27 @@ for (let i of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'YouTube 🌚',
 url: `${global.websitex}`
 }
 }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: 'Script 👀',
 url: `${global.botscript}`
 }
 }, {
 quickReplyButton: {
-displayText: 'Bot Status 🚀',
+displayText: 'Bot Status ❤️',
 id: 'ping'
 }
 }, {
 quickReplyButton: {
-displayText: 'Menu 🐰',
+displayText: 'Menu 🐦',
 id: 'menu'
 }  
 }, {
 quickReplyButton: {
-displayText: 'Owner 😈',
+displayText: 'Owner 😇',
 id: 'owner'
 }
 }]
@@ -3265,12 +3265,12 @@ for (let yoi of anu) {
 await sleep(1500)
 let btn = [{
 urlButton: {
-displayText: 'YouTube 🍓',
+displayText: 'YouTube 🌚',
 url: `${global.websitex}`
 }
 }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: 'Script 👀',
 url: `${global.botscript}`
 }
 }, {
@@ -3307,12 +3307,12 @@ if (!isCreator) return replay(mess.owner)
                     await sleep(1500)
                     let butoon = [{
                                 urlButton: {
-                                displayText: 'YouTube 🍓',
+                                displayText: 'YouTube 🌚',
 url: `${global.websitex}`
                                 }
                             }, {
 urlButton: {
-displayText: 'Script 🍜',
+displayText: 'Script 👀',
 url: `${global.botscript}`
 }
 }, {
